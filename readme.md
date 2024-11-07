@@ -1,5 +1,8 @@
 ![GODVAY](https://files.catbox.moe/0nnpu0.png)
 
+> [!NOTE]
+> No cuenta con interfaz, por lo tanto se requiere un IDE con Live Server o similar para efectuar cambios.
+
 # GODVAY - Presentador Bíblico/Lírico Minimalista
 
 **GODVAY** es una herramienta religiosa en desarrollo, diseñada para facilitar la proyección de letras de canciones o textos bíblicos de una manera sencilla y eficiente. A diferencia de otros programas complejos, GODVAY ofrece una solución minimalista que crea diapositivas a partir de archivos de texto estructurados. 
