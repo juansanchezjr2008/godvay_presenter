@@ -1,6 +1,6 @@
 ![GODVAY](https://files.catbox.moe/0nnpu0.png)
 
-> [!NOTE]
+> [!IMPORTANT]
 > No cuenta con interfaz, por lo tanto se requiere un IDE con Live Server o similar para efectuar cambios.
 
 # GODVAY - Presentador Bíblico/Lírico Minimalista
